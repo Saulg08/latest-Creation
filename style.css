@@ -1,0 +1,37 @@
+
+/* Estilos generales */
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #ffffcc;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* Encabezado */
+h1 {
+    color: #ff9900;
+    margin-top: 20px;
+}
+
+/* Párrafos */
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 10px 0;
+}
+
+/* Imagen de flores */
+.flower-image {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ff9900;
+    margin: 20px 0;
+}
+
+/* Pie de página */
+footer {
+    background-color: #ff9900;
+    color: #ffffff;
+    padding: 10px 0;
+}
